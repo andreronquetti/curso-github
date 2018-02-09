@@ -1,4 +1,4 @@
-# curso-github
+# Curso para práticar o Github
 
 Contando a historia do curso
 
